@@ -2,7 +2,7 @@
 
 Welcome to the **Solidity Research Hub**, a curated repository dedicated to advanced smart contract research, secure development practices, vulnerability analysis, and innovative protocol design on the Ethereum blockchain.
 
-![Ethereum Solidity Banner](![Solidity Logo](https://soliditylang.org/assets/images/solidity-logo.svg)
+![Solidity Logo](https://soliditylang.org/assets/images/solidity-logo.svg)
 ) <!-- Replace with your banner image URL -->
 
 ---
